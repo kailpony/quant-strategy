@@ -1,2 +1,3 @@
 # cyptocurrency-strategy
-It is my first project of quantative trade.
+# quantative trade in binance
+# 
